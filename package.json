@@ -1,0 +1,26 @@
+{
+  "name": "mern-transactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0",
+    "react-scripts": "^5.0.1",
+    "recharts": "^2.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "vite": "^6.1.0"
+  }
+}
